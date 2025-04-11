@@ -1,6 +1,10 @@
-<!-- Profile README for Saksham Maheshwari -->
-<h1 align="center">Hi 👋, I'm Saksham Maheshwari</h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer from India 🇮🇳</h3>
+<!-- GaandFaad Profile README for Saksham Maheshwari -->
+<h1 align="center">🚀 Saksham Maheshwari</h1>
+<h3 align="center">Turning Code into Impactful Tech Solutions 🌍</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;AI%2FML+Enthusiast;Problem+Solver+%26+Thinker;Passionate+Learner+%26+Builder" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saksham-maheshwari-46416a271/" target="_blank">
@@ -13,53 +17,65 @@
 
 ---
 
-### 🧠 About Me:
-I’m a passionate and driven computer science student who thrives on turning complex ideas into impactful tech solutions. With a solid foundation in programming and a deep interest in 🤖 AI and Machine Learning, I enjoy building applications that solve real-world problems and make a difference.
+### 💡 About Me
+🎓 I’m a passionate and driven computer science student who thrives on turning complex ideas into impactful tech solutions.
 
-My current stack includes ☕ Java, 💻 JavaScript, 🧠 DSA, 🌐 HTML/CSS, and 🗄️ SQL, and I’m always exploring ways to sharpen and expand my skills.
+🤖 With a strong foundation in programming and deep curiosity for AI/ML, I enjoy building real-world apps that matter.
 
-I strongly believe in 📚 learning by doing — from hands-on projects to coding challenges, I consistently strive to grow and stay ahead in the ever-evolving tech landscape.
+🧠 Current stack:  
+`Java ☕ | JavaScript 💻 | DSA 🔧 | HTML/CSS 🌐 | SQL 🗄️`
 
-My present focus revolves around 🛠️ full-stack web development, 🧩 AI/ML integration, and solving real-time problems that demand logic, creativity, and innovation.
+📈 My focus:  
+`Full-Stack Dev 🛠️ + AI/ML Integration 🧩 + Scalable Systems ⚙️`
 
-🤝 I’m open to opportunities, collaborations, and meaningful conversations around technology, innovation, and continuous growth. Let’s connect and build something impactful together.
+📚 I believe in **learning by doing** — projects, challenges, and collaboration fuel my journey.
+
+🤝 Let’s collaborate, innovate, and build something awesome!
 
 ---
 
-### 🛠️ Tech Stack:
+### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,sql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,sql,git,github,vscode,figma" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzsaksham771&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsaksham771&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itzsaksham771&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsaksham771&layout=compact&theme=gruvbox&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzsaksham771&theme=tokyonight&hide_border=true" width="70%"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itzsaksham771&theme=darkhub&no-frame=true&margin-w=15" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzsaksham771&theme=gruvbox&hide_border=true" width="70%" />
 </p>
 
 ---
 
-### 📈 Contribution Graph:
+### 🏆 Trophies
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzsaksham771&theme=react-dark&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itzsaksham771&theme=onestar&margin-w=15&no-frame=true" />
 </p>
 
 ---
 
-### 🎯 Let's Build Together!
+### 🌱 Contribution Graph
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Explorer;Problem+Solver;Lifelong+Learner" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzsaksham771&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+### ⚡ Fun Fact:
+> I debug faster when I’m listening to lo-fi beats and sipping chai ☕ 😄  
+> Bonus: I’ve never used “var” since ES6 dropped. 😎
+
+---
+
+### 🔗 Let’s Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/saksham-maheshwari-46416a271/" target="_blank">
+    <img src="https://img.shields.io/badge/Let's Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
