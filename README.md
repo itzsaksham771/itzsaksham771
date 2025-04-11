@@ -14,17 +14,21 @@
 ---
 
 ### 🧠 About Me:
-- 🎓 Full Stack Web Developer | MERN Stack Enthusiast
-- 🛠️ Skilled in React, Node.js, Express, MongoDB
-- 🌱 Currently learning **TypeScript** and **Next.js**
-- 💬 Ask me about **JavaScript, React, Web Development**
-- 📫 How to reach me: [Email Me](mailto:maheshwarisaksham@gmail.com)
+I’m a passionate and driven computer science student who thrives on turning complex ideas into impactful tech solutions. With a solid foundation in programming and a deep interest in 🤖 AI and Machine Learning, I enjoy building applications that solve real-world problems and make a difference.
+
+My current stack includes ☕ Java, 💻 JavaScript, 🧠 DSA, 🌐 HTML/CSS, and 🗄️ SQL, and I’m always exploring ways to sharpen and expand my skills.
+
+I strongly believe in 📚 learning by doing — from hands-on projects to coding challenges, I consistently strive to grow and stay ahead in the ever-evolving tech landscape.
+
+My present focus revolves around 🛠️ full-stack web development, 🧩 AI/ML integration, and solving real-time problems that demand logic, creativity, and innovation.
+
+🤝 I’m open to opportunities, collaborations, and meaningful conversations around technology, innovation, and continuous growth. Let’s connect and build something impactful together.
 
 ---
 
 ### 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,sql,git,github,vscode" />
 </p>
 
 ---
@@ -57,5 +61,5 @@
 
 ### 🎯 Let's Build Together!
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Lover;Tech+Explorer;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Explorer;Problem+Solver;Lifelong+Learner" />
 </p>
