@@ -1,4 +1,4 @@
-<!-- GaandFaad Profile README for Saksham Maheshwari -->
+
 <h1 align="center">🚀 Saksham Maheshwari</h1>
 <h3 align="center">Turning Code into Impactful Tech Solutions 🌍</h3>
 
