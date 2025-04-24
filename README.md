@@ -13,6 +13,10 @@
   <a href="mailto:maheshwarisaksham@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+
+  <a href="https://leetcode.com/u/maheshwarisaksham340/" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-blue?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
 </p>
 
 ---
