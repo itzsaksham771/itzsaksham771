@@ -1,111 +1,102 @@
-<h1 align="center">Hey there! I'm Saksham Maheshwari 👋</h1>
-<h3 align="center">Crafting Code into Real-World Impact ⚙️ | Explorer | Empath | Innovator</h3>
+<h1 align="center"> I'm Saksham Maheshwari 👋</h1>
+<h3 align="center">Turning Code into Impactful Tech Solutions 🌍</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;AI-ML+Explorer;DSA+Problem+Solver;Creative+Project+Builder;Open+to+Learning+Everything" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+stack+Developer;AI%2FML+Enthusiast;Analytical+Problem+Solver;Passionate+Learner+and+Innovator" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saksham-maheshwari-409416269/" target="_blank">
+  <a href="https://www.linkedin.com/in/saksham-maheshwari-46416a271/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:itzsaksham771@gmail.com">
+  <a href="mailto:maheshwarisaksham340@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://leetcode.com/itzsaksham771/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <a href="https://leetcode.com/u/maheshwarisaksham340/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=LeetCode&logoColor=orange" alt="LeetCode"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/itzsaksham771/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  <a href="https://www.geeksforgeeks.org/user/saksham22sca3cu/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-binge?style=for-the-badge&logo=GeeksforGeeks&logoColor=black" alt="GeeksforGeeks"/>
   </a>
 </p>
 
+
 ---
 
-### 🚀 About Me
+### 💡 About Me
 
 <p align="justify">
-I'm a passionate CSE (AIML) undergraduate at Galgotias University, exploring the intersection of logic and creativity through coding. I thrive on building intelligent and accessible systems that solve real-world problems—especially for those who need it most. I believe in the power of empathy-driven tech.
+  I am a passionate, driven Computer Science student with a strong foundation in programming and a keen interest in leveraging Artificial Intelligence and Machine Learning to build cutting-edge solutions. I thrive on developing intelligent, scalable applications that address real-world challenges and deliver meaningful impact.
 </p>
 
----
+<br />
 
-### 🧠 Current Tech Stack
+<p><b>🧠 Current Tech Stack:</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" height="28"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" height="28"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" height="28"/>
+  <img src="https://img.shields.io/badge/DSA-%2300599C.svg?style=flat-square&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/DSA-%2300599C.svg?style=flat-square&logo=leetcode&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/SQL-%2300C4CC.svg?style=flat-square&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white" height="28"/>
+</p>
+
+<br/>
+
+<p><b>📈 Areas of Focus:</b></p>
+
+<ul>
+  <li>Backend Development&nbsp;🛠️</li>
+  <li>AI / ML Integration&nbsp;🤖</li>
+  <li>Designing Scalable Systems&nbsp;⚙️</li>
+</ul>
+
+<br/>
+
+<p align="center"><b>📚 I believe in <i>learning by doing</i> - projects, challenges, and active collaboration drive my growth.</b></p>
+
+<br/>
+
+<p align="center">
+  <b>🤝 Open to collaborating on innovative projects. Let's connect and build something impactful together!</b>
 </p>
 
 ---
 
-### 💡 Interests & Focus
-
-- 🤖 **AI & ML Projects** (like gesture-based game control systems)
-- 🧠 **Problem Solving & DSA** – #100DaysOfCode on LeetCode
-- 🧪 **Software Engineering Internships & Projects**
-- 🔧 **Full Stack Development (React + Node.js)**
-- 📚 **NLP, Cloud, and Open Source Tools**
-
----
-
-### 🌟 Projects Highlight
-
-- **🕹️ AI-Powered Gesture-Based Subway Surfer**  
-  For hand-disabled players using MediaPipe + OpenCV + PyAutoGUI.
-- **🪲 Software Bug Priority Predictor**  
-  Real-time intelligent bug triaging using ML.
-- **🧠 AI Notes Summarizer**  
-  Flask + React project that uses NLP techniques for smart summarization.
-
----
-
-### 💻 Tools, Frameworks & Libraries
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mysql,html,css,py,flask,git,vscode,azure,github,bootstrap,figma,postman,tensorflow,opencv,mediapipe,keras,numpy,pandas" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzsaksham771&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzsaksham771&theme=tokyonight&hide_border=false" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzsaksham771&theme=tokyonight&layout=compact&hide_border=false" width="400"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itzsaksham771&theme=gruvbox&no-bg=false&margin-w=10" />
-</p>
-
----
-
-### ✍️ Quote I Live By
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,sql,aws,gcp,firebase,bootstrap,nodejs,npm,react,mongodb,azure,github,vscode,eclipse,canva,numpy,pandas,tensorflow,scikitlearn,matplotlib,keras" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=itzsaksham771&label=Profile+Visits&color=12&icon=5&pretty=true" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=My+GitHub+Journey;Open+Source+Contributor;Lifelong+Learner+%26+Builder" alt="GitHub Stats Header" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanskarVaibhav&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="400" alt="GitHub Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SanskarVaibhav&theme=tokyonight&hide_border=false" width="400" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarVaibhav&theme=tokyonight&hide_border=false&layout=compact" width="400" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="60%" alt="Animated Snake"/>
+</p>
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SanskarVaibhav&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-> ⚡ *Let's build something that matters. Open for collaborations, internships, and meaningful tech conversations.*
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+---
+[![](https://visitcount.itsvg.in/api?id=SanskarVaibhav&icon=10&color=4)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
